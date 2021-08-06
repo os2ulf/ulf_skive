@@ -1,0 +1,21 @@
+/**
+ *
+ * Font definitions
+ *
+ * Should contain definitions for all font-families used on the site
+ *
+ */
+
+@font-face {
+  font-family: 'AvenirLTPro';
+  font-style: normal;
+  font-weight: normal;
+  src: local('AvenirLTPro'), url('../fonts/AvenirLTProBook.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'AvenirLTProHeavy';
+  font-style: normal;
+  font-weight: normal;
+  src: local('AvenirLTProHeavy'), url('../fonts/AvenirLTProHeavy.woff') format('woff');
+}
