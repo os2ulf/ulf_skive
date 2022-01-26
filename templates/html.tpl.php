@@ -56,7 +56,8 @@
     <![endif]-->
   </head>
   <body class="<?php print $classes; ?>">
-    <?php print $page_top; ?>
+  <script id="CookieConsent" src="https://policy.app.cookieinformation.com/uc.js" data-culture="DA" type="text/javascript"></script>
+  <?php print $page_top; ?>
     <?php print $page; ?>
     <?php print $page_bottom; ?>
   </body>
