@@ -348,6 +348,13 @@ a {
     color: $white;
   }
 
+  // Adjust search filters to 2 columns with 50% width for each column
+  .search--filter-wrapper,
+  .search--filter-wrapper:nth-child(3),
+  .search--filter-wrapper:nth-child(6) {
+    width: 50%;
+  }
+
 
   /* Default file: modules/_teaser.scss
   ================================================================================================================== */
