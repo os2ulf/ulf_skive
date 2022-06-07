@@ -62,3 +62,5 @@
     <?php print $page_bottom; ?>
   </body>
 </html>
+
+<script async src=https://siteimproveanalytics.com/js/siteanalyze_273649.js></script>
