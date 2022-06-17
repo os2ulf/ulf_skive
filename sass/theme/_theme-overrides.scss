@@ -350,9 +350,9 @@ a {
 
 // Adjust search filters to 2 columns with 50% width for each column
 @media only screen and (min-width: 1000px) {
-  .search--filter-wrapper,
-  .search--filter-wrapper:nth-child(3),
-  .search--filter-wrapper:nth-child(6) {
+  .page-kurser .search--filter-wrapper,
+  .page-kurser .search--filter-wrapper:nth-child(3),
+  .page-kurser .search--filter-wrapper:nth-child(6) {
     width: 50%;
   }
 }
